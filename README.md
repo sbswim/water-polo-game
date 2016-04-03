@@ -20,8 +20,10 @@ What the game is:
 
 Help Needed!:
   1. If any issues in the code, help will be greatly appreciated.
-  2. Make sure to mention what edits were made and to what document.
-  3. Thank you!!
+  2. Make sure to mention what edits were made and to what document. 
+  3. Make sure to understand Creatjs because it will be implemented throughout the game
+  4. Thank you!!
+
 
 The Future:
   1. Once the game is working at its inital state, steps should be taken to see where it could possibly go.
